@@ -1,0 +1,8 @@
+{
+  "name": "Lify",
+  "description": "Text messaging web application",
+  "author": "John Gerwin De las Alas",
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
